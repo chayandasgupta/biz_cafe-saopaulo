@@ -1,0 +1,132 @@
+/* Smartphones (portrait and landscape) ----------- */
+@media only screen and (min-width : 320px) and (max-width : 480px) {
+   .navbar-logo {
+    top: 0px;
+    width: 13%;
+  }
+
+  .navbar-toggler .svg-inline--fa.fa-bars {
+      font-size: 22px!important;
+  }
+
+  .main-header .header-search-bar {
+    display: none;
+  }
+   
+  .megamenu {
+    padding: 15px 15px 20px;
+  }
+
+  .megamenu .thumbnail {
+    margin-top: 25px;
+  }
+
+  .lg-view {
+    display: none!important;
+  }
+
+  .hero-area {
+    height: 40vh;
+    align-items: center;
+    padding-bottom: 0;
+  }
+  .hero-content {
+    width: 100%;
+  }
+  .hero-content .hero-content-title {
+    font-size: 40px;
+  }
+  .hero-content-sub-title-left-line, .hero-content-sub-title-right-line {
+    width: 70px;
+  }
+  .e {
+    font-size: 20px;
+    padding: 0px 5px;
+  }
+  .video-area {
+    height: 40vh;
+  }
+  .home-promo-area {
+    padding: 10px 0px;
+  }
+  .single-promo-area-wrap {
+     height: unset; 
+  }
+  .promo-area-content .promo-area-title {
+    font-size: 25px;
+  }
+ .promo-area-sub-title {
+    margin-bottom: 10px;
+    font-size: 15px;
+ }
+ .promo-area-content p {
+    font-size: 15px;
+    margin-bottom: 20px;
+ }
+ .about-us-area .offset-2 {
+    margin-left: 0!important;
+ }
+ .reservation-content-inner {
+    padding: 20px;
+ }
+ .col-md-3-half {
+    width: unset;
+    flex: unset;
+ }
+ .footer-area {
+    padding: 50px 0px;
+ }
+ .footer-widget {
+    margin-bottom: 25px;
+}
+.footer-widget .fw-title {
+    font-size: 15px;
+ }
+
+.footer-widget .fw-content {
+    padding: 13px 0px 0px 7px;
+}
+.fw-menu-link {
+    font-size: 15px;
+}
+.f-social-area {
+    text-align: center;
+}
+.f-bootom-conditon-area {
+    text-align: center;
+}
+.f-bootom-conditon-area ul li a {
+   margin: 5px 2px;
+    color: #fff;
+    display: inline-block;
+    background: linear-gradient(45deg, #562222, #6b7577);
+    padding: 4px 10px;
+    border-radius: 50px;
+}
+.f-bootom-conditon-area ul li a:before, 
+.f-bootom-conditon-area ul li a:after{
+  content: "";
+  border: none;
+}
+.pd-f-b {
+    padding: 100px 0px 80px!important;
+}
+.coffee-culturer-content-right p {
+    text-align: justify;
+}
+.fs-18 {
+    font-size: 17px;
+}
+}
+
+@media only screen and (min-width : 481px ) and (max-width : 768px) {
+/* Styles */
+}
+
+@media only screen and (min-width : 769px ) and (max-width : 1024px) {
+/* Styles */
+}
+
+@media only screen and (min-width : 1025px ) and (max-width : 1200px) {
+/* Styles */
+}
